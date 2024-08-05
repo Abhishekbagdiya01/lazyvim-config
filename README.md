@@ -18,8 +18,9 @@ Custom Neovim configuration built on top of LazyVim. This repository extends the
    ```
 - Setup:
    ```cp -r ~/lazyvim-config/.config/nvim/* ~/.config/nvim/```
-  
    run :Lazy sync in Neovim to install plugins and sync.
+
+   Run :LazyExtra and enable dap.core and restart neovim
 
 
 
